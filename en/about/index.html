@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noodp" />
-    <title class="pjax-title">About DoIt - Shuaiqin&#39;s Note</title><meta name="Description" content="The official documentation for the Hugo DoIt theme"><meta property="og:title" content="About DoIt" />
+    <title class="pjax-title">About DoIt - Shuaiqin&#39;s Note</title><meta name="Description" content="Shuaiqin&#39;s blog"><meta property="og:title" content="About DoIt" />
 <meta property="og:description" content=":(far fa-edit fa-fw): DoIt is a clean, elegant but advanced blog theme for Hugo developed by HEIGE-PCloud.
 It is based on the LoveIt Theme, LeaveIt Theme and KeepIt Theme.
  FeaturesPerformance and SEO :(fas fa-rocket fa-fw): Optimized for performance: [99]/[100] on mobile and [100]/[100] on desktop in Google PageSpeed Insights :(fas fa-space-shuttle fa-fw): PJAX loading supported :(fab fa-searchengin fa-fw): Optimized SEO performance with a correct SEO SCHEMA based on JSON-LD :(fab fa-google fa-fw): Google Analytics supported :(far fa-chart-bar fa-fw): Fathom Analytics supported :(far fa-chart-bar fa-fw): Baidu Analytics supported :(far fa-chart-bar fa-fw): Umami Analytics supported :(far fa-chart-bar fa-fw): Plausible Analytics supported :(fas fa-search fa-fw): Search engine verification supported (Google, Bind, Yandex and Baidu) :(fas fa-tachometer-alt fa-fw): CDN for third-party libraries supported :(fas fa-cloud-download-alt fa-fw): Automatically converted images with Lazy Load by lazysizes  Appearance and Layout [:(fas fa-desktop):]/[:(fas fa-mobile):] Responsive layout [:(fas fa-sun):]/[:(fas fa-moon):] [Light]/[Dark] mode :(fas fa-layer-group fa-fw): Globally consistent design language :(fas fa-ellipsis-h fa-fw): Pagination supported :(far fa-list-alt fa-fw): Easy-to-use and self-expanding table of contents :(fas fa-language fa-fw): Multilanguage supported and i18n ready :(fab fa-css3-alt fa-fw): Beautiful CSS animation  Social and Comment Systems :(far fa-user fa-fw): Gravatar supported by Gravatar :(fas fa-user-circle fa-fw): Local Avatar supported :(far fa-id-card fa-fw): Up to 64 social links supported :(fas fa-share-square fa-fw): Up to 28 share sites supported :(far fa-comment fa-fw): Disqus comment system supported by Disqus :(far fa-comment-dots fa-fw): Gitalk comment system supported by Gitalk :(far fa-comment-alt fa-fw): Valine comment system supported by Valine :(far fa-comment-alt fa-fw): Waline comment system supported by Waline :(far fa-comments fa-fw): Facebook comments system supported by Facebook :(fas fa-comment fa-fw): Telegram comments system supported by Comments :(fas fa-comment-dots fa-fw): Commento comment system supported by Commento :(fas fa-comment-alt fa-fw): Utterances comment system supported by Utterances :(fas fa-comment-alt fa-fw): Twikoo comment system supported by Twikoo :(fas fa-comment-alt fa-fw): Vssue comment system supported by Vssue :(fas fa-comment-alt fa-fw): Remark42 comment system supported by Remark42 :(fas fa-gem fa-fw): giscus comment system supported by giscus  Extended Features :(fas fa-search fa-fw): Search supported by Lunr." />
@@ -71,7 +71,7 @@ It is based on the LoveIt Theme, LeaveIt Theme and KeepIt Theme.
             <a href="/en/" title="Shuaiqin&#39;s Note"><span class="header-title-pre"><i class='far fa-edit fa-fw'></i></span><span id="desktop-header-typeit" class="typeit"></span></a>
         </div>
         <div class="menu">
-            <div class="menu-inner"><a class="menu-item" href="/en/posts/"> Posts </a><a class="menu-item" href="/en/tags/"> Tags </a><a class="menu-item" href="/en/categories/"> Categories </a><a class="menu-item" href="/en/categories/documentation/"> Docs </a><a class="menu-item active" href="/en/about/"> About </a><a class="menu-item" href="https://github.com/HEIGE-PCloud/DoIt" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i>  </a><span class="menu-item delimiter"></span><a href="#" onclick="return false;" class="menu-item language" title="Select Language">English<i class="fas fa-chevron-right fa-fw"></i>
+            <div class="menu-inner"><a class="menu-item" href="/en/posts/"> Posts </a><a class="menu-item" href="/en/tags/"> Tags </a><a class="menu-item" href="/en/categories/"> Categories </a><a class="menu-item" href="/en/categories/documentation/"> Docs </a><a class="menu-item active" href="/en/about/"> About </a><span class="menu-item delimiter"></span><a href="#" onclick="return false;" class="menu-item language" title="Select Language">English<i class="fas fa-chevron-right fa-fw"></i>
                         <select class="language-select" title="Select Language" id="language-select-desktop" onchange="location = this.value;"><option value="/en/about/" selected>English</option><option value="/about/">简体中文</option></select>
                     </a><span class="menu-item search" id="search-desktop">
                         <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
@@ -84,14 +84,8 @@ It is based on the LoveIt Theme, LeaveIt Theme and KeepIt Theme.
                         <span class="search-button search-loading" id="search-loading-desktop">
                             <i class="fas fa-spinner fa-fw fa-spin"></i>
                         </span>
-                    </span><a href="#" onclick="return false;" class="menu-item theme-select" title="Switch Theme">
+                    </span><a href="#" onclick="return false;" class="menu-item theme-switch" title="Switch Theme">
                     <i class="fas fa-adjust fa-fw"></i>
-                    <select class="color-theme-select" id="theme-select-desktop" title="Switch Theme">
-                        <option value="light">Light</option>
-                        <option value="dark">Dark</option>
-                        <option value="black">Black</option>
-                        <option value="auto">Auto</option>
-                    </select>
                 </a></div>
         </div>
     </div>
@@ -121,14 +115,8 @@ It is based on the LoveIt Theme, LeaveIt Theme and KeepIt Theme.
                     <a href="#" onclick="return false;" class="search-cancel" id="search-cancel-mobile">
                         Cancel
                     </a>
-                </div><a class="menu-item" href="/en/posts/" title="">Posts</a><a class="menu-item" href="/en/tags/" title="">Tags</a><a class="menu-item" href="/en/categories/" title="">Categories</a><a class="menu-item" href="/en/categories/documentation/" title="">Docs</a><a class="menu-item" href="/en/about/" title="">About</a><a class="menu-item" href="https://github.com/HEIGE-PCloud/DoIt" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw'></i></a><a href="#" onclick="return false;" class="menu-item theme-select" title="Switch Theme">
+                </div><a class="menu-item" href="/en/posts/" title="">Posts</a><a class="menu-item" href="/en/tags/" title="">Tags</a><a class="menu-item" href="/en/categories/" title="">Categories</a><a class="menu-item" href="/en/categories/documentation/" title="">Docs</a><a class="menu-item" href="/en/about/" title="">About</a><a href="#" onclick="return false;" class="menu-item theme-switch" title="Switch Theme">
                 <i class="fas fa-adjust fa-fw"></i>
-                <select class="color-theme-select" id="theme-select-mobile" title="Switch Theme">
-                    <option value="light">Light</option>
-                    <option value="dark">Dark</option>
-                    <option value="black">Black</option>
-                    <option value="auto">Auto</option>
-                </select>
             </a><a href="#" onclick="return false;" class="menu-item" title="Select Language">English<i class="fas fa-chevron-right fa-fw"></i>
                     <select class="language-select" title="Select Language" onchange="location = this.value;"><option value="/en/about/" selected>English</option><option value="/about/">简体中文</option></select>
                 </a></div>
@@ -250,7 +238,7 @@ It is based on the LoveIt Theme, LeaveIt Theme and KeepIt Theme.
 </ul>
 </div><div id="comments"></div></div></div>
         </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2021 - 2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://github.com/HEIGE-PCloud" target="_blank" rel="noopener noreferrer">chushuaiqin</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        <div class="footer-container"><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2021 - 2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://shuaiqinchu.github.io/" target="_blank" rel="noopener noreferrer">chushuaiqin</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
             <div class="footer-line"></div>
             <div class="footer-line">
             </div>
