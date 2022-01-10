@@ -198,6 +198,15 @@
             <loc>https://shuaiqinchu.github.io/en/extend-shortcodes-tests/</loc><lastmod>2021-04-16T14:21:36&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://shuaiqinchu.github.io/en/builtin-shortcodes-tests/</loc><lastmod>2021-04-16T14:08:05&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://shuaiqinchu.github.io/en/markdown-tests/</loc><lastmod>2021-04-16T12:27:57&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://shuaiqinchu.github.io/en/about/</loc><lastmod>2020-08-04T18:00:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://shuaiqinchu.github.io/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://shuaiqinchu.github.io/en/about/"
+                    /></url><url>
             <loc>https://shuaiqinchu.github.io/en/authors/dillon/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -278,14 +287,5 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://shuaiqinchu.github.io/en/tags/emoji/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/en/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://shuaiqinchu.github.io/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://shuaiqinchu.github.io/en/about/"
                     /></url><url>
             <loc>https://shuaiqinchu.github.io/en/offline/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
