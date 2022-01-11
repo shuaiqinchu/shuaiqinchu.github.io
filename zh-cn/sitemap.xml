@@ -65,6 +65,25 @@
                     hreflang="zh-cn"
                     href="https://shuaiqinchu.github.io/pwa-support/"
                     /></url><url>
+            <loc>https://shuaiqinchu.github.io/firstpost/</loc><lastmod>2022-01-10T21:29:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shuaiqinchu.github.io/posts/</loc><lastmod>2022-01-10T21:29:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://shuaiqinchu.github.io/en/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://shuaiqinchu.github.io/posts/"
+                    /></url><url>
+            <loc>https://shuaiqinchu.github.io/</loc><lastmod>2022-01-10T21:29:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://shuaiqinchu.github.io/en/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://shuaiqinchu.github.io/"
+                    /></url><url>
             <loc>https://shuaiqinchu.github.io/showcase/</loc><lastmod>2021-11-01T20:08:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -82,24 +101,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://shuaiqinchu.github.io/categories/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/posts/</loc><lastmod>2021-07-03T22:15:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/posts/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/</loc><lastmod>2021-07-03T22:15:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/"
                     /></url><url>
             <loc>https://shuaiqinchu.github.io/categories/tests/</loc><lastmod>2021-07-03T22:15:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

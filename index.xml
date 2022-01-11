@@ -4,7 +4,7 @@
         <link>https://shuaiqinchu.github.io/</link>
         <description>shuaiqin的个人博客，偶尔写点东西</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shuaiqinchu@tom.com (chushuaiqin)</managingEditor>
-            <webMaster>shuaiqinchu@tom.com (chushuaiqin)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 03 Jul 2021 22:15:26 &#43;0800</lastBuildDate>
+            <webMaster>shuaiqinchu@tom.com (chushuaiqin)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 10 Jan 2022 21:29:27 &#43;0800</lastBuildDate>
             <atom:link href="https://shuaiqinchu.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>主题文档 - 基本概念</title>
@@ -66,6 +66,13 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/featured-image.webp" referrerpolicy="no-referrer">
             </div><p>了解如何在 DoIt 主题中配置渐进式网络应用程序 (PWA).</p>]]></description>
+</item><item>
+    <title>First Post</title>
+    <link>https://shuaiqinchu.github.io/firstpost/</link>
+    <pubDate>Mon, 10 Jan 2022 21:29:27 &#43;0800</pubDate><author>
+        <name>chushuaiqin</name>
+    </author><guid>https://shuaiqinchu.github.io/firstpost/</guid>
+    <description><![CDATA[这是一篇测试文章二级标题三级标题这是正文哈哈哈 欢乐一行？ 欢乐一行 强调 加粗 变斜体 asdsa zcsac dcasdc sadas sdfds 小明 大名 sad 12 13 14 asd srh yhj 这是提个链接 1 2 3 4 这是一个代]]></description>
 </item><item>
     <title>系列分类测试</title>
     <link>https://shuaiqinchu.github.io/series-taxonomy-tests/</link>
