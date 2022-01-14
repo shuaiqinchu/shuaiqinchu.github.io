@@ -2,98 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://shuaiqinchu.github.io/theme-documentation-basics/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/theme-documentation-basics/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/theme-documentation-basics/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/theme-documentation-content/</loc><lastmod>2020-03-04T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/theme-documentation-content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/theme-documentation-content/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-03-05T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/theme-documentation-built-in-shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/theme-documentation-built-in-shortcodes/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/theme-documentation-extended-shortcodes/</loc><lastmod>2020-03-06T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/theme-documentation-extended-shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/theme-documentation-extended-shortcodes/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/basic-markdown-syntax/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/basic-markdown-syntax/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/emoji-support/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/emoji-support/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/emoji-support/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/pwa-support/</loc><lastmod>2021-05-10T16:21:41&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/pwa-support/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/pwa-support/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/firstpost/</loc><lastmod>2022-01-10T21:29:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://shuaiqinchu.github.io/posts/</loc><lastmod>2022-01-10T21:29:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/posts/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/</loc><lastmod>2022-01-10T21:29:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/showcase/</loc><lastmod>2021-11-01T20:08:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/showcase/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/showcase/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/categories/</loc><lastmod>2021-07-03T22:15:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://shuaiqinchu.github.io/categories/</loc><lastmod>2022-01-11T22:15:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://shuaiqinchu.github.io/en/categories/"
@@ -102,61 +11,19 @@
                     hreflang="zh-cn"
                     href="https://shuaiqinchu.github.io/categories/"
                     /></url><url>
-            <loc>https://shuaiqinchu.github.io/categories/tests/</loc><lastmod>2021-07-03T22:15:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://shuaiqinchu.github.io/tags/life/</loc><lastmod>2022-01-11T22:15:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shuaiqinchu.github.io/categories/life/</loc><lastmod>2022-01-11T22:15:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shuaiqinchu.github.io/posts/</loc><lastmod>2022-01-11T22:15:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shuaiqinchu.github.io/</loc><lastmod>2022-01-11T22:15:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/categories/tests/"
+                        href="https://shuaiqinchu.github.io/en/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/categories/tests/"
+                    href="https://shuaiqinchu.github.io/"
                     /></url><url>
-            <loc>https://shuaiqinchu.github.io/series/test-series/</loc><lastmod>2021-07-03T22:15:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/series/test-series/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/series/test-series/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/series/</loc><lastmod>2021-07-03T22:15:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/series/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/series/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/series-taxonomy-tests/</loc><lastmod>2021-07-03T22:15:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/series-taxonomy-tests/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/series-taxonomy-tests/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/authors/pcloud/</loc><lastmod>2021-05-10T16:21:41&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/authors/pcloud/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/authors/pcloud/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/tags/pwa/</loc><lastmod>2021-05-10T16:21:41&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/tags/pwa/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/tags/pwa/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/tags/</loc><lastmod>2021-05-10T16:21:41&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://shuaiqinchu.github.io/tags/</loc><lastmod>2022-01-11T22:15:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://shuaiqinchu.github.io/en/tags/"
@@ -165,23 +32,16 @@
                     hreflang="zh-cn"
                     href="https://shuaiqinchu.github.io/tags/"
                     /></url><url>
-            <loc>https://shuaiqinchu.github.io/authors/</loc><lastmod>2021-05-10T16:21:41&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://shuaiqinchu.github.io/thirdpost/</loc><lastmod>2022-01-11T22:15:55&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shuaiqinchu.github.io/firstpost/</loc><lastmod>2022-01-10T21:29:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://shuaiqinchu.github.io/showcase/</loc><lastmod>2021-11-01T20:08:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/authors/"
+                        href="https://shuaiqinchu.github.io/en/showcase/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/authors/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/categories/documentation/</loc><lastmod>2021-05-10T16:21:41&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/categories/documentation/"
+                    href="https://shuaiqinchu.github.io/showcase/"
                     /></url><url>
             <loc>https://shuaiqinchu.github.io/about/</loc><lastmod>2020-08-04T18:00:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
@@ -192,43 +52,16 @@
                     hreflang="zh-cn"
                     href="https://shuaiqinchu.github.io/about/"
                     /></url><url>
-            <loc>https://shuaiqinchu.github.io/authors/dillon/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://shuaiqinchu.github.io/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/authors/dillon/"
+                        href="https://shuaiqinchu.github.io/en/authors/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/authors/dillon/"
+                    href="https://shuaiqinchu.github.io/authors/"
                     /></url><url>
-            <loc>https://shuaiqinchu.github.io/tags/shortcodes/</loc><lastmod>2020-03-06T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/tags/shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/tags/shortcodes/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/series/getting-start/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/series/getting-start/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/series/getting-start/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/tags/markdown/</loc><lastmod>2020-03-04T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/tags/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/tags/markdown/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/tags/content/</loc><lastmod>2020-03-04T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://shuaiqinchu.github.io/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://shuaiqinchu.github.io/en/tags/content/"
@@ -237,7 +70,7 @@
                     hreflang="zh-cn"
                     href="https://shuaiqinchu.github.io/tags/content/"
                     /></url><url>
-            <loc>https://shuaiqinchu.github.io/tags/installation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://shuaiqinchu.github.io/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://shuaiqinchu.github.io/en/tags/installation/"
@@ -246,7 +79,43 @@
                     hreflang="zh-cn"
                     href="https://shuaiqinchu.github.io/tags/installation/"
                     /></url><url>
-            <loc>https://shuaiqinchu.github.io/tags/configuration/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://shuaiqinchu.github.io/series/getting-start/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://shuaiqinchu.github.io/en/series/getting-start/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://shuaiqinchu.github.io/series/getting-start/"
+                    /></url><url>
+            <loc>https://shuaiqinchu.github.io/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://shuaiqinchu.github.io/en/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://shuaiqinchu.github.io/categories/documentation/"
+                    /></url><url>
+            <loc>https://shuaiqinchu.github.io/series/test-series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://shuaiqinchu.github.io/en/series/test-series/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://shuaiqinchu.github.io/series/test-series/"
+                    /></url><url>
+            <loc>https://shuaiqinchu.github.io/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://shuaiqinchu.github.io/en/series/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://shuaiqinchu.github.io/series/"
+                    /></url><url>
+            <loc>https://shuaiqinchu.github.io/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://shuaiqinchu.github.io/en/tags/configuration/"
@@ -254,22 +123,4 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://shuaiqinchu.github.io/tags/configuration/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/tags/html/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/tags/html/"
-                    /></url><url>
-            <loc>https://shuaiqinchu.github.io/tags/emoji/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://shuaiqinchu.github.io/en/tags/emoji/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://shuaiqinchu.github.io/tags/emoji/"
                     /></url></urlset>
