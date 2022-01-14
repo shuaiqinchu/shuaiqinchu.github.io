@@ -4,21 +4,14 @@
         <link>https://shuaiqinchu.github.io/</link>
         <description>shuaiqin的个人博客，偶尔写点东西</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>shuaiqinchu@tom.com (chushuaiqin)</managingEditor>
-            <webMaster>shuaiqinchu@tom.com (chushuaiqin)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 11 Jan 2022 22:15:55 &#43;0800</lastBuildDate>
+            <webMaster>shuaiqinchu@tom.com (chushuaiqin)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 14 Jan 2022 22:11:36 &#43;0800</lastBuildDate>
             <atom:link href="https://shuaiqinchu.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Thirdpost</title>
-    <link>https://shuaiqinchu.github.io/thirdpost/</link>
-    <pubDate>Tue, 11 Jan 2022 22:15:55 &#43;0800</pubDate><author>
+    <title>第一次小记</title>
+    <link>https://shuaiqinchu.github.io/firstblog/</link>
+    <pubDate>Fri, 14 Jan 2022 22:11:36 &#43;0800</pubDate><author>
         <name>chushuaiqin</name>
-    </author><guid>https://shuaiqinchu.github.io/thirdpost/</guid>
-    <description><![CDATA[sssssss asdwecwecwecwe] mmnrtnt thnteyne]]></description>
-</item><item>
-    <title>First Post</title>
-    <link>https://shuaiqinchu.github.io/firstpost/</link>
-    <pubDate>Mon, 10 Jan 2022 21:29:27 &#43;0800</pubDate><author>
-        <name>chushuaiqin</name>
-    </author><guid>https://shuaiqinchu.github.io/firstpost/</guid>
-    <description><![CDATA[这是一篇测试文章二级标题三级标题 小明 大名 sad 12 13 14 asd srh yhj 这是提个链接 1 2 3 4 这是一个代码块 还蛮好用的]]></description>
+    </author><guid>https://shuaiqinchu.github.io/firstblog/</guid>
+    <description><![CDATA[现在是1月14日晚上的10：13，距离熄灯还有不到15分钟，快速写一段文字测试一下该站点。 第一次用markdown格式还有些不习惯，一些语法]]></description>
 </item></channel>
 </rss>
